@@ -1,0 +1,11 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/Button_1.png": "img1.json",
+"dr/Button_2.png": "img1.json",
+"dr/loading.gif": "img1.json",
+"dr/si5490.png": "img1.json",
+"dr/si5504.png": "img1.json",
+"dr/si5599.png": "img1.json",
+"dr/si5612.png": "img1.json",
+"dr/Title_AutoShape_1.png": "img1.json",
+"dr/Title_AutoShape_2.png": "img1.json",
+"___":"___"};
